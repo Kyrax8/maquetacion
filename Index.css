@@ -1,0 +1,91 @@
+.contenedor{
+    margin: auto;
+    margin-top: 1rem;
+    width: 100rem;
+    height: 87rem;
+    display: flex;
+    position: relative;
+   
+}
+.azul{
+    width: 99rem;
+    height: 11rem;
+    background: rgb(59, 59, 182);
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(140, 127, 255);
+     position: absolute;
+
+}
+.rojo{
+    
+    width: 22rem;
+    height: 50rem;
+    background: red;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(226, 72, 105);
+    position: absolute;
+    top: 13rem;
+
+}
+.verde{
+    width: 75rem;
+    height: 50rem;
+    background: rgb(80, 182, 13);
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(105, 221, 59);
+    position: absolute;
+    position: relative;
+    top: 13rem;
+    left: 24rem;
+}
+.amarillo1{
+    width: 22rem;
+    height: 28rem;
+    background: yellow;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(221, 209, 36);
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+}
+.amarillo2{
+    width: 22rem;
+    height: 28rem;
+    background: yellow;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(221, 209, 36);
+    position: absolute;
+    left: 26rem;
+    top: 1rem;
+}
+.amarillo3{
+    width: 22rem;
+    height: 28rem;
+    background: yellow;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(221, 209, 36);
+    position: absolute;
+    left: 51rem;
+    top: 1rem;
+    right: 1rem;
+}
+.morado{
+    width:  99rem;
+    height: 19rem;
+    background: purple;
+    border-width: 0.5rem;
+    border-style: solid;
+    border-color: rgb(197, 34, 175);
+    position: absolute;
+    top: 65rem;
+
+}
+
+
+
